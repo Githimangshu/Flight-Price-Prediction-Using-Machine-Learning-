@@ -1,2 +1,2 @@
 # Flight-Price-Prediction-Using-Machine-Learning
-We shall predict flight prices by comparing today's prices to those offuture days, according to our real conception of the flight prediction system.  Our primary goal is to forecast flight costs by comparing today's pricing to any other day so that customers may make informed trip booking decisions. 
+In this project we worked on large dataset using various machine learning algorithms to build a model to predict flight prices with maximum accuracy as well as to suggest the customers to suggest the best time to buy a flight ticket and that too with a cheapest price .
